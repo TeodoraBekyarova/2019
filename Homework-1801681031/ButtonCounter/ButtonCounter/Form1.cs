@@ -16,7 +16,7 @@ namespace ButtonCounter
         public Form1()
         {
             InitializeComponent();
-            Number.Text = " 0 ";
+            
         }
 
         private void btnClick_Click(object sender, EventArgs e)
